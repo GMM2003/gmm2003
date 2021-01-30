@@ -4,12 +4,12 @@ body {
 }
 
 @font-face {
-	font-family: segoeui;
+	font-family: segoeuil;
 	font-size: 12px;
-	src: url('/fonts/segoeui.ttf')
+	src: url('/fonts/segoeuil.ttf')
 	;
 }
 
 p.custom_font{
-font-family: segoeui;
+font-family: segoeuil;
 }

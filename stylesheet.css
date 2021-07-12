@@ -6,7 +6,7 @@ body {
 @font-face {
 	font-family: segoeui;
 	font-size: 12px;
-	src: url('/fonts/segoeui.ttf')
+	src: url('fonts/segoeui.ttf')
 	;
 }
 
